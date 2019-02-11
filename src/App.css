@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+    font-family: roboto;
+}
+
+h1{
+    position:absolute;
+    top:20px;
+    left:20px;
+    font-family: Fantasy;
+    color: #C0C0C0
+    
+}
+
+
+.Boutons{
+    position:absolute;
+    top:20px;
+    right:20px;
+    
+}
+
+#bouton2{
+    position:absolute;
+    right:20px;
+}

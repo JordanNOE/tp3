@@ -1,0 +1,6 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/jorda/Desktop/technoweb/tp3jordannoe/node_modules/@babel/plugin-transform-modules-systemjs/lib/index.js",
+        "C:/Users/jorda/Desktop/technoweb/tp3jordannoe/src/pageprofil.js"
+    ]
+}
